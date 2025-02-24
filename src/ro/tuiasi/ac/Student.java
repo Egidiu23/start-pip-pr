@@ -1,6 +1,8 @@
 package ro.tuiasi.ac;
 
 public class Student {
+	///////// 
+	
 	private int id;
 	private String first_name;
 	private String last_name; // family name
