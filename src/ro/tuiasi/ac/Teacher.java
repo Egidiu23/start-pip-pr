@@ -2,7 +2,7 @@ package ro.tuiasi.ac;
 
 public class Teacher {
 	Teacher(){
-		System.out.println("Ctr. din Teacher");
+		System.out.println("Ctr. din Teacher 2025");
 	}
 	
 	@Override
