@@ -19,6 +19,7 @@ public class TestStudentApp {
 		//System.out.println(t1);
 		
 		System.out.println("Salut 2023");
+		System.out.println("Salut 2025");
 		
 	}
 
